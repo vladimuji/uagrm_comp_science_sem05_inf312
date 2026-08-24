@@ -16,7 +16,7 @@ This repository provides clean, practical implementations of database concepts u
 📘 EXERCICES - HOMEWORK
 -----------------------
 
-- 📝 **[UNIDAD 1 - Entrevista a dueño de empresa de carga y encomiendas](https://github.com/vladimuji)**
+- 📝 **[UNIDAD 1 - Entrevista a dueño de empresa de carga y encomiendas](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_1_interview_and_uml_diagram/unit_1/README.md)**
     
 
 📁 Project Structure
