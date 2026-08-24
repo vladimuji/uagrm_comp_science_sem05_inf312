@@ -50,22 +50,22 @@ This repository provides clean, practical implementations of database concepts u
     
 *   **SQL Queries**: From basic SELECT to advanced joins
     
-*   **Stored Procedures & Views**: Encapsulation and abstraction
-    
 
 ### Example
 
 sql
 
-```   -- Create a Students table  
+-- Create a Students table  
 CREATE TABLE Students (      
     id INT PRIMARY KEY,      
     name VARCHAR(50),      
     email VARCHAR(100) UNIQUE  
-    );  
+    );
+
 -- Insert sample data 
 INSERT INTO Students (id, name, email)  VALUES (1, 'Ana', 'ana@mail.com'),         
-    (2, 'Luis', 'luis@mail.com');  
+    (2, 'Luis', 'luis@mail.com');
+
 -- Query data  
 SELECT name, email 
 FROM Students WHERE id = 1;   
@@ -81,10 +81,6 @@ FROM Students WHERE id = 1;
 *   SQL queries (SELECT, INSERT, UPDATE, DELETE)
     
 *   Joins and subqueries
-    
-*   Aggregate functions
-    
-*   Views and stored procedures
     
 
 🛠️ Technologies
@@ -125,7 +121,9 @@ The project emphasizes:
 
 sql
 
-```   -- Load schema  SOURCE schema/create_tables.sql;  -- Run queries  SOURCE queries/basic_queries.sql;   ```
+```
+-- Load schema  SOURCE schema/create_tables.sql;  -- Run queries  SOURCE queries/basic_queries.sql;
+```
 
 📖 Course Information
 ---------------------
@@ -136,7 +134,7 @@ sql
     
 *   **Semester**: 5th Semester
     
-*   **Author**: Vladimir
+*   **Author**: Vladimir Mújica
     
 
 📝 Notes
