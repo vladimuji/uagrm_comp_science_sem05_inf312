@@ -54,7 +54,7 @@ This repository provides clean, practical implementations of database concepts u
 ### Example
 
 sql
-
+```
 -- Create a Students table  
 CREATE TABLE Students (      
     id INT PRIMARY KEY,      
