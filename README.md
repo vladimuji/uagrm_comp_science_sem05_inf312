@@ -8,12 +8,12 @@ A comprehensive educational project for **INF322 - Bases de Datos I** at UAGRM (
 
 This repository provides clean, practical implementations of database concepts using **SQL Server / MariaDB**. It is designed as a learning resource to understand the internal mechanics of relational models, normalization, and query design.
 
-📁 GOOGLE COLAB
+ 🚀 GOOGLE COLAB
 -----------------------------
 
 *   **[Google Colab for SQL practice](https://colab.research.google.com/drive/1ARAIzmY_CVT8On6VRrI9u3qDAfbIgoGK?usp=sharing)**    
 
-📁 EXERCICES - HOMEWORK
+📘 EXERCICES - HOMEWORK
 -----------------------
 
 - **[UNIDAD 1 - Entrevista a dueño de empresa de carga y encomiendas](https://github.com/vladimuji)**
