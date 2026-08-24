@@ -57,7 +57,19 @@ This repository provides clean, practical implementations of database concepts u
 
 sql
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   -- Create a Students table  CREATE TABLE Students (      id INT PRIMARY KEY,      name VARCHAR(50),      email VARCHAR(100) UNIQUE  );  -- Insert sample data  INSERT INTO Students (id, name, email)  VALUES (1, 'Ana', 'ana@mail.com'),         (2, 'Luis', 'luis@mail.com');  -- Query data  SELECT name, email FROM Students WHERE id = 1;   `
+```   -- Create a Students table  
+CREATE TABLE Students (      
+    id INT PRIMARY KEY,      
+    name VARCHAR(50),      
+    email VARCHAR(100) UNIQUE  
+    );  
+-- Insert sample data 
+INSERT INTO Students (id, name, email)  VALUES (1, 'Ana', 'ana@mail.com'),         
+    (2, 'Luis', 'luis@mail.com');  
+-- Query data  
+SELECT name, email 
+FROM Students WHERE id = 1;   
+```
 
 📊 Topics Covered
 -----------------
@@ -113,7 +125,7 @@ The project emphasizes:
 
 sql
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   -- Load schema  SOURCE schema/create_tables.sql;  -- Run queries  SOURCE queries/basic_queries.sql;   `
+```   -- Load schema  SOURCE schema/create_tables.sql;  -- Run queries  SOURCE queries/basic_queries.sql;   ```
 
 📖 Course Information
 ---------------------
