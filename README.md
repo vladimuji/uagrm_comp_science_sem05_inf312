@@ -24,17 +24,14 @@ This repository provides clean, practical implementations of database concepts u
 
 ```
 00-code/  
-├── schema/                     # Database schema definitions  
-│   ├── create_tables.sql       # Table creation scripts  
-│   ├── constraints.sql         # Keys and constraints  
-│   └── sample_data.sql         # Insert sample data  
-├── queries/                    # SQL query exercises  
-│   ├── basic_queries.sql       # SELECT, WHERE, ORDER BY  
-│   ├── joins_subqueries.sql    # INNER JOIN, LEFT JOIN, subqueries  
-│   ├── aggregates.sql          # SUM, AVG, COUNT, GROUP BY  
-│   └── views_procedures.sql    # Views and stored procedures  
-├── exercices/                  # Homework and practice scripts  
-└── main.sql                    # Entry point for running exercises
+├── assets/  
+│   └── img/  
+│       └── 002-empresa-logistica-carga.png     # Captura del diagrama StarUML  
+├── unit_1/  
+│   └── README.md                               # Documentación y requerimientos de la Unidad 1  
+├── LICENSE                                     # Licencia del proyecto  
+└── README.md                                   # README principal del repositorio  
+
 ```
 
 🗄️ Database Concepts
