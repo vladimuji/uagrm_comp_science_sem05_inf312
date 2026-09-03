@@ -18,7 +18,7 @@ This repository provides clean, practical implementations of database concepts u
 
 - 📝 **[UNIDAD 1 - Interview and conceptual design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_1_interview_and_uml_diagram/unit_1/README.md)**
 
-- 📝 **[UNIDAD 2 - Logical design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_2_conceptual_design/README.md)**
+- 📝 **[UNIDAD 2 - Logical design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_2_conceptual_design/unit_2/README.md)**
     
 
 📁 Project Structure
