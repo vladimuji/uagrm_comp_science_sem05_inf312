@@ -16,7 +16,9 @@ This repository provides clean, practical implementations of database concepts u
 📘 EXERCICES - HOMEWORK
 -----------------------
 
-- 📝 **[UNIDAD 1 - Entrevista a dueño de empresa de carga y encomiendas](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_1_interview_and_uml_diagram/unit_1/README.md)**
+- 📝 **[UNIDAD 1 - Interview and conceptual design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_1_interview_and_uml_diagram/unit_1/README.md)**
+
+- 📝 **[UNIDAD 2 - Logical design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_2_conceptual_design/README.md)**
     
 
 📁 Project Structure
