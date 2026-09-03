@@ -27,9 +27,17 @@ Este proyecto surge como caso de estudio para la materia **Bases de Datos 1** de
 
 ---
 
-## 📐 Diseño Conceptual (UML)
+## 📐 Conceptual Design (UML)
 
-A continuación se presenta el diagrama de clases generado en **StarUML** que modela los requerimientos descritos en la entrevista:
+Bellow is the conceptual design generated on **StarUML** which is modeling the requirements took from the interview
 
-![Diagrama de Clases UML - Los Camioncitos](../assets/img/002-empresa-logistica-carga.png)
+![Diagrama de Clases UML - Los Camioncitos](../assets/img/002-logistica-conceptual-design.png)
+
+---
+
+## 🗄️ Logical Design (UML)
+
+Since we already designed the conceptual idea, so we can go through the logical design, same in **StarUML**, signing the data types, the PK, FK too.
+
+![Diagrama de Clases UML - Los Camioncitos](../assets/img/002-logistica-logical-design.png)
 
