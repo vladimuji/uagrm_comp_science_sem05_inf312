@@ -20,7 +20,9 @@ This repository provides clean, practical implementations of database concepts u
 
 - 📝 **[UNIDAD 2 - Logical design](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_2_conceptual_design/unit_2/README.md)**
 
-- 📝 **[UNIDADES 3, 4, 5 - Physical design and Normalization](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/tree/unit_3_4_5_physical_design_normalization/unit_3_4_5)**
+- 📝 **[UNIDADES 3, 4, 5 - Physical design and Normalization](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/unit_3_4_5_physical_design_normalization/unit_3_4_5/README.md)**
+
+- 📝 **[Physical design and Population](https://github.com/vladimuji/uagrm_comp_science_sem05_inf312/blob/physical_design_population/physical_design/README.md)**
     
 
 📁 Project Structure
